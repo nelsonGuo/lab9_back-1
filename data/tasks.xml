@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+<item>
+	<id>3</id>
+	<task>Wash the car</task>
+	<priority>3</priority>
+	<size>2</size>
+	<group>1</group>
+	<deadline></deadline>
+	<status></status>
+	<flag></flag>
+</item>
+<item>
+	<id>4</id>
+	<task>Paint the fence</task>
+	<priority></priority>
+	<size>1</size>
+	<group>2</group>
+	<deadline>1</deadline>
+	<status></status>
+	<flag></flag>
+</item>
+<item>
+	<id>6</id>
+	<task>Intramural hockey game</task>
+	<priority>1</priority>
+	<size>2</size>
+	<group>4</group>
+	<deadline></deadline>
+	<status></status>
+	<flag></flag>
+</item>
+<item>
+	<id>7</id>
+	<task>Canucks hockey game</task>
+	<priority>3</priority>
+	<size>3</size>
+	<group>4</group>
+	<deadline>20170305</deadline>
+	<status>2</status>
+	<flag></flag>
+</item>
+<item>
+	<id>8</id>
+	<task>Buy steel-toed boots</task>
+	<priority>2</priority>
+	<size>1</size>
+	<group>3</group>
+	<deadline></deadline>
+	<status></status>
+	<flag></flag>
+</item>
+<item>
+	<id>9</id>
+	<task>Learn French</task>
+	<priority>1</priority>
+	<size>3</size>
+	<group>3</group>
+	<deadline>20161231</deadline>
+	<status>1</status>
+	<flag></flag>
+</item>
+<item>
+	<id>10</id>
+	<task>Hit the gym</task>
+	<priority>2</priority>
+	<size>1</size>
+	<group>4</group>
+	<deadline></deadline>
+	<status></status>
+	<flag></flag>
+</item>
+<item>
+	<id>11</id>
+	<task>Pay bills</task>
+	<priority>3</priority>
+	<size>1</size>
+	<group>1</group>
+	<deadline></deadline>
+	<status></status>
+	<flag></flag>
+</item>
+<item>
+	<id>12</id>
+	<task>Meet George</task>
+	<priority>2</priority>
+	<size>1</size>
+	<group>1</group>
+	<deadline></deadline>
+	<status></status>
+	<flag></flag>
+</item>
+<item>
+	<id>13</id>
+	<task>Buy milk &amp; bread</task>
+	<priority>2</priority>
+	<size>1</size>
+	<group>1</group>
+	<deadline></deadline>
+	<status>1</status>
+	<flag></flag>
+</item>
+<item>
+	<id>14</id>
+	<task>Read War &amp; Peace</task>
+	<priority>1</priority>
+	<size>3</size>
+	<group>1</group>
+	<deadline></deadline>
+	<status></status>
+	<flag></flag>
+</item>
+<item>
+	<id>15</id>
+	<task>Organize the study</task>
+	<priority>1</priority>
+	<size>4</size>
+	<group>1</group>
+	<deadline></deadline>
+	<status>2</status>
+	<flag></flag>
+</item>
+<item>
+	<id>16</id>
+	<task>prepare for midterm</task>
+	<priority>3</priority>
+	<size></size>
+	<group></group>
+	<deadline></deadline>
+	<status></status>
+	<flag></flag>
+</item>
+</xml>
